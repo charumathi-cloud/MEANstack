@@ -1,0 +1,2 @@
+module MEAN_stack {
+}
